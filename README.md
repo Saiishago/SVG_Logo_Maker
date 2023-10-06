@@ -28,8 +28,10 @@ NB!! make sure you save the generated svg under another name before making anoth
 ## Links
 
 ### Walkthrough Link
-
+[Walkthrough video](https://drive.google.com/file/d/1dEISEbPKrGa__KVk6l7HWQ491lPNWVdi/view?usp=sharing)
 ### Github Link
+[Github SVG_Logo_Maker Repo](https://github.com/Saiishago/SVG_Logo_Maker)
+
 
 ### Screenshots
 #### SVG Image
